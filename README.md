@@ -1,8 +1,8 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Project SEKAI Character Creation*
 
 Submitted by: **Anh Nguyen**
 
-This web app: **Project SEKAI Character Creation**
+This web app aims to be a fun way to create Project SEKAI characters
 
 Time spent: **10** hours spent in total
 
