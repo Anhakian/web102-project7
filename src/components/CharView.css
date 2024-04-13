@@ -1,0 +1,50 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 40px;
+    background-color: #35f8ff;
+}
+
+.Leoni {
+    background-color: #9faaff;
+}
+
+.VBS {
+    background-color: #ff8eb9;
+}
+
+.MMJ {
+    background-color: #c6ff97;
+}
+
+.WxS {
+    background-color: #eea334;
+}
+
+.Niigo {
+    background-color: #c292cf;
+}   
+
+.card .name {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.card .description {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.card .unit {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+button {
+    margin-top: 10px;
+}

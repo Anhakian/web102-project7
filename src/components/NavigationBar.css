@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color:  #e6fffd ;
+    width: 100%;
+    padding: 10px 0;
+    justify-content: center;
+    text-align: center;
+    font-size: 20px;
+}
+
+.navbar a {
+    margin: 20px 50px;
+}

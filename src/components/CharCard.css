@@ -1,0 +1,73 @@
+.CharCard {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 40px;
+    background-color: #35f8ff;
+}
+
+.Leoni {
+    background-color: #9faaff;
+}
+
+.VBS {
+    background-color: #ff8eb9;
+}
+
+.MMJ {
+    background-color: #c6ff97;
+}
+
+.WxS {
+    background-color: #eea334;
+}
+
+.Niigo {
+    background-color: #c292cf;
+}   
+
+
+.CharCard .name {
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.CharCard .description {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+.CharCard .unit {
+    font-size: 16px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.CharCard .voteButton {
+    background-color: #bad0ff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.CharCard .voteButton:hover {
+    background-color: #ff8e72;
+}
+
+.CharCard button {
+    background-color: #b9ebff;
+    color: #000000;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.CharCard button:hover {
+    background-color: #ffffff;
+}
